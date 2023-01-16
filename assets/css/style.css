@@ -1,0 +1,19 @@
+.span-numero{
+    display: inline-block;
+    width: 5%;
+}
+
+.span-texto{
+    display: inline-block;
+    width: 60%;
+}
+
+.span-elemento{
+    display: inline-block;
+    width: 15%;
+}
+
+ul{
+    list-style-type: none;
+    display: inline-block;
+}
